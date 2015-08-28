@@ -251,6 +251,12 @@ public final class Settings {
          */
         public static final String ANALYZER_ASSEMBLY_MONO_PATH = "analyzer.assembly.mono.path";
         /**
+         * The properties key for whether the platform analyzer is enabled.
+         */
+        public static final String ANALYZER_PLATFORM_ENABLED = "analyzer.platform.enabled";
+
+
+        /**
          * The additional configured zip file extensions, if available.
          */
         public static final String ADDITIONAL_ZIP_EXTENSIONS = "extensions.zip";
